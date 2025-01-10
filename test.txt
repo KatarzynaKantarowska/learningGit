@@ -1,1 +1,3 @@
 Commit new file
+
+And now in this file will be changes 
